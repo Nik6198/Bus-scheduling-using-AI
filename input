@@ -1,0 +1,26 @@
+# <no of stations>
+# <station> <people count>
+# <no of routes/ bus types>
+# <id> <routes> <no of buses>
+14
+Katraj #s3.jpeg
+Padmavati 2
+Pachami 15
+CityPride 7
+Laxminarayan 0
+Swargate #roadside.jpg
+Shankarsheth #s2.jpeg
+Pulgate 3
+Hadapsar 9
+Tilak 1
+FC #s4.jpg
+Shivajinagar 4
+Dhankawadi 11
+Gulabnagar #s1.jpeg
+3
+301 Katraj,Padmavati,Pachami,CityPride,Laxminarayan,Swargate,Shankarsheth,Pulgate,Hadapsar
+48 Dhankawadi,Gulabnagar,Pachami,CityPride,Laxminarayan,Swargate,Shankarsheth,Pulgate,Hadapsar 
+18 Katraj,Padmavati,Pachami,CityPride,Laxminarayan,Swargate
+
+
+
